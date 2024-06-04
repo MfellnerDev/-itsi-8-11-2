@@ -1,0 +1,24 @@
+MIME-Version: 1.0
+Date: Tue, 19 Mar 2024 11:00:00 +0100
+Message-ID: <CCJ4dTcy6fS8D6wge3yLjntJm9WCnAU5YWPr3G5XHkkAQbhrNow@mail.tgm.ac.at>
+Subject: Test
+From: Unknown <foo@example.com>
+To: Christoph Roschger <croschger@tgm.ac.at>
+MIME-Version: 1.0
+Content-Type: multipart/encrypted; protocol="application/pgp-encrypted"; boundary="=-=hYbs675Gjs73Hsk0=-="
+
+--=-=hYbs675Gjs73Hsk0=-=
+Content-Type: application/pgp-encrypted
+
+Version: 1
+
+--=-=hYbs675Gjs73Hsk0=-=
+Content-Type: application/octet-stream
+
+-----BEGIN PGP MESSAGE-----
+
+bhZ9aDMoQj7hRCwCfBsiUlyvWfBkagb+1OjnejxuFn1oLCZaIbYALw9t0uCVGyJSXK9Z8GRqBv7U6Od6PBsiUlyvWfBkagb+1OjnejystJlHHAkiFsPhCxB3m4+EQvgITO3uS9IIDb55vvKkdg159xEX4EcMTOX6OUbwWRFSVr1u12ZGeVZdn5UgogsqnBgZB5f5Pk0nYJjk8AN+Rjy9xYnDotMMkt+lUSjg5ZjKzsueMC92R6cV6eNvQrm+GgJ0irLLWnHlB3nxMMcxXjb9Gy+IXazIHvYX4BOg66Ox57AXJHB2+k0XMP+yV4bryf1itKZQKVkSSwUNMglZyvxImzMOovW4yNCjKKHraOZXgqNd3x5j9smqZoablZJLjd5EH6LvyciCqgme5OVD0HA4vySGScBoBqw7isBKIyLA8qvWyqOAAcMtbCyKpXXaxmKj8aWfIEBO0yMMmxrMV71Ru3u90Bmr+3FpQrlQHCvKrA9KMzSa+L1WarAEG64WjygW9cmnz3ZfITygVo7fVXJ3yg8pFY/kYVgbF2+SlkRNbvUz8UPtHSzQgMse2UUa
+
+
+-----END PGP MESSAGE-----
+--=-=hYbs675Gjs73Hsk0=-=
